@@ -1,5 +1,5 @@
 {
-  "name": "@Hopefulee/react-native-camera",
+  "name": "@jolt-charge/react-native-camera",
   "description": "A Camera component for React Native. Also reads barcodes.",
   "version": "4.2.2",
   "author": "Lochlan Wansbrough <lochie@live.com> (http://lwansbrough.com)",
@@ -39,7 +39,7 @@
     "react-native": "0.63.2",
     "semantic-release": "^17.1.1"
   },
-  "homepage": "https://github.com/Hopefulee/react-native-camera.git",
+  "homepage": "https://github.com/jolt-charge/react-native-camera.git",
   "keywords": [
     "barcode",
     "camera",
@@ -70,7 +70,7 @@
   "pre-commit": "lint:staged",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Hopefulee/react-native-camera.git"
+    "url": "https://github.com/jolt-charge/react-native-camera.git"
   },
   "scripts": {
     "commit": "git-cz",
